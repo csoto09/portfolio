@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "LinkedIn",
+    "link": "",
+    "icon": "assets/icons/github.svg"
+  },
+  {
+    "id": 1,
+    "name": "Github",
+    "link": "https://github.com/csoto09",
+    "icon": "assets/icons/github.svg"
+  },
+  {
+    "id": 2,
+    "name": "StackOverflow",
+    "link": "https://stackoverflow.com/story/cjsoto",
+    "icon": "assets/icons/stackoverflow.svg"
+  },
+  {
+    "id": 3,
+    "name": "Twitter",
+    "link": "https://twitter.com/csoto09",
+    "icon": "assets/icons/twitter.svg"
+  }
+]
